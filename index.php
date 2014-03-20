@@ -62,6 +62,7 @@ require_once("resources/navigation.php");
 		?>
 	</div>
 	</div>
+	Hallo
   </body>
 
 </html>
